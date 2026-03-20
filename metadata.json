@@ -1,0 +1,5 @@
+{
+  "name": "Tooth Fairy Dental Clinic",
+  "description": "Professional, friendly, and pain-free dentistry in Sivaram by Dr Sharma. Changing lives one smile at a time.",
+  "requestFramePermissions": ["geolocation"]
+}
